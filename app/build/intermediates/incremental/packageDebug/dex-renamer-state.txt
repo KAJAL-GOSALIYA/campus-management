@@ -1,0 +1,7 @@
+#Sat Jul 08 04:11:22 IST 2017
+base.0=/home/kajal/Downloads/CollegeManagement/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_476e3570494eb720fb0f1811cb5a43bad00c49be
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/kajal/Downloads/CollegeManagement/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7c4c7d4e2354d44dca071912fde8fdf04bab66dd/classes.dex
+base.1=/home/kajal/Downloads/CollegeManagement/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7c4c7d4e2354d44dca071912fde8fdf04bab66dd
+file.0=/home/kajal/Downloads/CollegeManagement/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_476e3570494eb720fb0f1811cb5a43bad00c49be/classes.dex

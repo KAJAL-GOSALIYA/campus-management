@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/kajal/.android/build-cache/7d9d4db383f44ee826de1702b804b261a375da86/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/kajal/Downloads/CollegeManagement/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5e733bd3952ffcb2dafbd1c4caee35e000ce5769/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kajal/Downloads/CollegeManagement/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/kajal/Downloads/CollegeManagement/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_476e3570494eb720fb0f1811cb5a43bad00c49be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kajal/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/kajal/Downloads/CollegeManagement/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_e62d6e9eb85f66314f3a526d441045f6f800d521/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kajal/.android/build-cache/51771a4a5d1cb0d09d1f44eaad470d24a1b3517f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/home/kajal/Downloads/CollegeManagement/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_69d651772ff4a3ed431e580053ca65a62ec679d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kajal/.android/build-cache/05a4efd48368ae84e5935fbfefb35f6ab1715676/output/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/kajal/Downloads/CollegeManagement/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_26781f4a84aa594ca68b683189747193378bd831/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kajal/Downloads/CollegeManagement/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67ab2e5f98b94152f6b1cb1fd08e7d728d0ec083">
+        <dex dex="/home/kajal/Downloads/CollegeManagement/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7c4c7d4e2354d44dca071912fde8fdf04bab66dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kajal/.android/build-cache/4d7779d56c1da6edc56c67d31339b1279e69b3f8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/kajal/Downloads/CollegeManagement/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e79733b3222ef5757c4797a738bd57a0bcf0598c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kajal/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/home/kajal/Downloads/CollegeManagement/app/build/intermediates/transforms/dex/debug/folders/1000/10/core-3.2.1_ead6d1d37a3cfb0438b79eea24568032de5599ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kajal/.android/build-cache/2434742a80a108d1a4b84699b3d69b53e73e8040/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/kajal/Downloads/CollegeManagement/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b297b7369a6ec2f4609b8701f6ce17db1b71d35f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kajal/.android/build-cache/7b54419d32eba9fcc64451517ad0f4e528ed6c73/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/home/kajal/Downloads/CollegeManagement/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4be3e0579b1647d75d3ccab59e364eda3e66ea8a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kajal/.android/build-cache/05a4efd48368ae84e5935fbfefb35f6ab1715676/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/kajal/Downloads/CollegeManagement/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0ac865bbca0830a7d9f8d9e237456d48ccae3e3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kajal/.android/build-cache/0b65bdc08e560f33ee0c0c2464fca214f0547f62/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/home/kajal/Downloads/CollegeManagement/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3a103c4fb052ef7003cce601f41c8a2d177d4295/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kajal/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.19/a8f23f65fc1e522ee4a1a697ee569901a46741fa/library-1.0.19.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="/home/kajal/Downloads/CollegeManagement/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-1.0.19_9ddca499251d0783eb3b2d5152f7340ffc0c49ae/classes.dex" />
+    </item>
+
+</items>

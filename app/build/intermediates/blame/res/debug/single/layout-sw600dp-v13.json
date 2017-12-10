@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/kajal/Downloads/CollegeManagement/E:\\CollegeManagement\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "/home/kajal/Downloads/CollegeManagement/E:\\CollegeManagement\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/kajal/Downloads/CollegeManagement/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/home/kajal/.android/build-cache/51771a4a5d1cb0d09d1f44eaad470d24a1b3517f/output/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    }
+]

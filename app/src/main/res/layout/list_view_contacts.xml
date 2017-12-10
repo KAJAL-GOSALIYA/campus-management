@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@drawable/rounded_edge"
+    android:layout_margin="10dp"
+    android:elevation="10dp"
+    android:clickable="true">
+
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvName"
+        android:textStyle="bold"
+        android:textSize="@dimen/medium_text"/>
+
+    <LinearLayout
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:weightSum="2">
+
+             <TextView
+                 android:layout_width="0dp"
+                 android:layout_height="wrap_content"
+                 android:id="@+id/tvContact"
+                 android:textSize="@dimen/small_text"
+                 android:layout_weight="0.8"
+                 android:textAlignment="center"
+                 android:padding="5dp"
+                 android:clickable="true"
+                 android:linksClickable="true"
+                 android:autoLink="phone"
+            />
+
+            <TextView
+                android:layout_weight="1.2"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/tvEmail"
+                android:textSize="@dimen/small_text"
+                android:textAlignment="center"
+                android:padding="5dp"
+                android:autoLink="email"
+                />
+
+    </LinearLayout>
+
+</LinearLayout>

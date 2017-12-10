@@ -1,0 +1,5 @@
+CHANGED,E:\CollegeManagement\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\android\collegemanagementsystem\RegisterActivity$1.class
+CHANGED,E:\CollegeManagement\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\android\collegemanagementsystem\RegisterActivity.class
+CHANGED,E:\CollegeManagement\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\android\collegemanagementsystem\RegisterActivity$3.class
+CHANGED,E:\CollegeManagement\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\android\collegemanagementsystem\RegisterActivity$2.class
+CHANGED,E:\CollegeManagement\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\android\collegemanagementsystem\RegisterActivity$4.class
